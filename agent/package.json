@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cloud-bench": "^1.1.0",
+    "speed-test": "^3.0.0",
+    "speedtest-net": "^2.2.0"
+  }
+}
